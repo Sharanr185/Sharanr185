@@ -23,5 +23,5 @@ Computer Science and Engineering Student
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Sharan_R?theme=dark&font=Noto%20Sans%20Symbols&ext=heatmap))](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Sharan_R?theme=dark&font=Noto%20Sans%20Symbols&ext=heatmap))](https://leetcode.com/Sharan_R/)
 
