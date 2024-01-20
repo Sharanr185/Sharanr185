@@ -6,8 +6,8 @@ Computer Science and Engineering Student
 - 🌱 I’m currently learning React.js
 - 👯 I’m currently working on UI/UX designing
 - 💬 Ask me about HTML,CSS,Python,SQL
-- 📫 How to reach me :
   
+- 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharan-r-0669a1229/)
 
 ### I code in
